@@ -1,0 +1,170 @@
+@font-face {
+  font-family: "Arcadeclassic";
+  src: url('../font/ARCADECLASSIC.TTF');
+}
+
+#header {
+  background-color: rgb(38, 38, 94, 0.889);
+  color: white;
+  padding: 10px 0px 15px 15px;
+  font-family: "Arcadeclassic";
+}
+
+.logo {
+  float: right;
+}
+
+.imma {
+  position: relative;
+  display: inline-block;
+}
+
+body {
+  background-color: #1a192e;
+  color: #FFFFFF;
+}
+
+.testo {
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  text-align: giustify;
+  padding: 0 12px 0 12px;
+  font-size: 25px;
+}
+
+.imma {
+  position: relative;
+  display: inline-block;
+
+}
+
+.img {
+  width: 300px;
+  margin: 0 20px;
+}
+
+
+.footer {
+  background-color: rgb(38, 38, 94, 0.889);
+  color: white;
+  padding: 10px 0px 10px 15px;
+  margin-top: 20px;
+  text-align: center;
+  position: relative;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+  font-family: "Arcadeclassic";
+}
+
+.float {
+  margin: 10px;
+  float: right;
+  overflow: auto;
+  width: 400px;
+}
+
+.fleft-pong {
+  margin: 5px 10px 10px 10px;
+  float: left;
+  overflow: auto;
+}
+
+.fleft {
+  margin: 0 10px 0 0;
+  float: left;
+  overflow: auto;
+}
+
+.button {
+  width: fit-content;
+  padding: 2px 7px 2px 7px;
+  background-color: #49c1b3;
+  border-radius: 7px;
+  margin: 0px 10px 25px 10px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+#sopra {
+  width: 300px;
+  transition: width 1s;
+}
+
+#sopra:hover {
+  width: 340px;
+}
+
+.border {
+  border: 1px solid white;
+  margin-left: 20px;
+}
+
+.float-pong {
+  margin: 20px;
+  float: right;
+  overflow: auto;
+
+}
+
+.back:hover {
+  color: #0162fe;
+}
+
+.back {
+  color: #0e1162;
+}
+
+.last-p {
+  margin-top: 50px;
+}
+
+.logo-atari {
+  margin-top: 10px;
+}
+
+.imma-atari {
+  margin-top: 10px;
+}
+
+.first-text-atari {
+  margin-top: 40px;
+}
+
+/*.container-img-pong {
+  width: 304px;
+  height: 220px;
+  overflow: hidden;
+}*/
+.bot {
+  margin-bottom: 100px;
+}
+
+.hacker {
+  margin-top: 10px;
+}
+
+.float-right {
+  float: right;
+  overflow: auto;
+}
+
+.link {
+  color: #4da3ff;
+}
+
+.link:hover {
+  color: #00fbff;
+}
+
+.summary {
+  text-align: center;
+  margin: 50px;
+}
